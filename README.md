@@ -1,5 +1,5 @@
 Give a ⭐️ if you like this project!
-# Fiverr GigConnect - Freelance Marketplace
+#  GigConnect - Freelance Marketplace
 
 ## Overview
 
